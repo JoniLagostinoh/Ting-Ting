@@ -1,2 +1,2 @@
-# Ting-Ting
-[UNRELEASED] Ting Ting Video-Game🎮
+# Thing-Thing
+[UNRELEASED] Thing Thing Video-Game🎮
