@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Unity.AI.Assistant.Bridge.Editor
-build_property.ProjectDir = C:\Users\Joni\Desktop\Projects\Games\Ting Ting\Ting Ting Alpha\
+build_property.ProjectDir = C:\Users\Joni\Desktop\Projects\Games\Ting-Ting\Ting Ting Alpha\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

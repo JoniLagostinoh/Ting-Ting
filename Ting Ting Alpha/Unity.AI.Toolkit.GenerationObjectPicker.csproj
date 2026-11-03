@@ -43,7 +43,7 @@
     <UnityVersion>6000.6.7f1</UnityVersion>
   </PropertyGroup>
   <PropertyGroup>
-    <CodeAnalysisRuleSet>C:\Users\Joni\Desktop\Projects\Games\Ting Ting\Ting Ting Alpha\Library\ImmutablePackage.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSet>C:\Users\Joni\Desktop\Projects\Games\Ting-Ting\Ting Ting Alpha\Library\ImmutablePackage.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />

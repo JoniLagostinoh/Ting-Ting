@@ -3,6 +3,13 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
+
+
+
+    public enum gameState {std, makingWeapons};
+
+
+
     [SerializeField] private LayerMask raycastMask = ~0;
 
     private InputSystem_Actions inputActions;
@@ -22,8 +29,8 @@ public class Player : MonoBehaviour
         DropHeld();
     }
 
-    // Per-frame input: the joint target follows the cursor smoothly.
-    // The old 10Hz tick made the target move in steps, which is a big part of the "dry" feel.
+    // The joint target follows the cursor smoothly.
+  
     private void Update()
     {
         bool pressed = inputActions.MainCharacter.LMB.IsPressed();
